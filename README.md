@@ -2,7 +2,7 @@
 
 ## 👤 About Me
 
-* 🔭 **I'm currently working on:** **Founder & CEO at Kimi Technologies** (Under Hari International Tech Ventures) - Driving a Tech Media & Development powerhouse focused on AI, Robotics, Cybersecurity, and Web Solutions.
+* 🔭 **I'm currently working on:** **Founder & CEO at Kimi Technologies** - Driving a Tech Media & Development powerhouse focused on AI, Robotics, Cybersecurity, and Web Solutions.
     * Deep diving into the realms of **Artificial Intelligence, Prompt Engineering, and Cybersecurity** field operations.
     * **Open Source Developer:** Weaving logic into reality, one commit at a time. Believer in open code and shared knowledge.
     * **Writer at Heart | Poet by Soul:** When the compiler rests, the pen speaks. Crafting emotions and depth in the quiet corners of life.
@@ -28,11 +28,8 @@
 ## 🌐 Connect with Me:
 
 ### ⚡ Where I'm Most Active
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nikhil_syr) 
-> *Poetry & Aesthetic Reels ✍️✨*
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Code_Counter) 
-> *CodeCounter - Technical Tutorials & Coding Shorts 💻🐧*
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mrnooffline) 
+> *Aesthetic Reels ✍️✨*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-kumar-31b914341) 
 > *Professional Space & Tech Ventures 💼*
@@ -46,7 +43,7 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat-square&logo=Pinterest&logoColor=white)](https://pin.it/6WBipofSG) 
 🎨 *Aesthetic Collections*
 
-[![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/oye_nikhilji) 
+[![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/mrnooffline) 
 👻 *Just lurking... 0 Followers & Proud!*
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:connect.kimitech@gmail.com) 
