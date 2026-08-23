@@ -15,7 +15,7 @@
 
 * 💬 **Ask me about:** Tech innovations, GitHub workflows, poetry, or how code and creative writing are secretly the same art.
 
-* ⚡ **Fun fact:** * A non-stop talker who can't stand seeing anyone sad.
+* ⚡ **Fun fact:** A non-stop talker who can't stand seeing anyone sad.
     * **Passionate writer & artist:** I can write code or poetry 24/7, and I'm pretty good with a sketchpad too!
     * Proudly navigating life with **Pseudobulbar Affect (PBA)** - human emotions have their own unique source code, and mine just likes to compile with unexpected bursts of laughter or tears!
 
