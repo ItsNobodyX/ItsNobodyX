@@ -161,7 +161,7 @@ The clearest ways to reach me, for engineering, partnerships, or a thoughtful co
 
 <div align="center">
 
-  <a href="https://github.com/itsdotji">
+  <a href="https://github.com/ItsNobodyX">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitsdotji&count_bg=%232DD4BF&title_bg=%230B0F14&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Profile views" />
   </a>
 
