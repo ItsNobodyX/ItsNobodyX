@@ -14,7 +14,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=3500&pause=1200&color=2DD4BF&background=0B0F14&center=true&vCenter=true&width=820&height=84&lines=NIKHIL+KUMAR" alt="Nikhil Kumar" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=8B5CF6&background=0B0F14&center=true&vCenter=true&width=820&height=44&lines=Founder+and+CEO+at+Kimi+Technologies;Open-Source+Developer;AI+%C2%B7+Cybersecurity+%C2%B7+Web+Solutions" alt="Founder and CEO at Kimi Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=8B5CF6&background=0B0F14&center=true&vCenter=true&width=820&height=44&lines=Founder+and+CEO+at+Kimi+Technologies;Open-Source+Developer;AI+%C2%B7+Cybersecurity+%C2%B7+Web+Solutions" alt="Founder and CEO at @kimitechnologis." />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:8B5CF6&height=3&width=1200" width="100%" alt="" />
 
